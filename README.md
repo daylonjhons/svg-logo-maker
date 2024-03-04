@@ -20,12 +20,17 @@ npm i
 npm test
 
 ## Screenshots
-Here are some screenshots from the app 
+
+Here are some screenshots from the application
+
 ![Alt text](<images/Screenshot 2024-03-04 at 9.18.33 AM.png>)
 ![Alt text](<images/Screenshot 2024-03-04 at 9.19.38 AM.png>)
 ![Alt text](<images/Screenshot 2024-03-04 at 9.19.58 AM.png>)
 
-##Video
+## Video
+
+Here is a video of the application
+
 <images/Untitled_ Mar 4, 2024 9_27 AM.webm>
 
 ## Questions:
