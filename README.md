@@ -31,8 +31,11 @@ Here are some screenshots from the application
 
 Here is a video of the application
 
-<images/Untitled_ Mar 4, 2024 9_27 AM.webm>
+https://drive.google.com/file/d/1jRpNGHzmHdHtg5Ky4C6Sp-p1BZR3wdrc/view?usp=sharing
 
-## Questions:
+
+
+## Questions
+
 If you have any questions about the repo, you can message me @ [email]daylonjhons@gmail.com. 
 You can also find me on Github @ [daylonjhons](https://github.com/daylonjhons).
