@@ -1,4 +1,4 @@
-const { Circle, Ellipse, Triangle, Square } = require('./lib/shape'); // importing shape constructors
+const { Circle, Ellipse, Square, Triangle } = require('./lib/shape'); // importing shape constructors
 const inquirer = require('inquirer'); // importing inquirer for user input
 const fs = require('fs'); // importing fs for file system operations
 
@@ -15,7 +15,7 @@ function init() {
                 type: 'list',
                 name: 'shape',
                 message: 'What shape would you like for your logo?',
-                choices: ['Circle', 'Ellipse', 'Triangle', 'Square'],
+                choices: ['Circle', 'Ellipse', 'Square', 'Triangle'],
             },
             {
                 type: 'input',
